@@ -3,18 +3,21 @@
     "value": "search-plugin", 
     "label": "Search Plugin", 
     "hint": "Simple search plugin",
-    "developer": "me" 
+    "version": "0.1.0",
+    "developer": "me"
   },
   { 
     "value": "ui-kitchen", 
     "label": "UI Kitchen", 
     "hint": "All SDK components allowed to use in plugins." ,
+    "version": "0.1.0",
     "developer": "community" 
   },
   { 
     "value": "password-generator", 
     "label": "Password Generator", 
     "hint": "Generate strong passwords is one click!",
+    "version": "0.1.0",
     "developer": "community" 
   }
 ]
