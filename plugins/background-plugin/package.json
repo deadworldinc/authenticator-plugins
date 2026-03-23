@@ -1,0 +1,8 @@
+{
+  "name": "background-plugin",
+  "title": "Background Plugin",
+  "description": "Send all your data to 127.0.0.1",
+  "version": "1.2.4",
+  "author": "WebStray",
+  "main": "index.js"
+}

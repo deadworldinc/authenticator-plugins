@@ -1,0 +1,8 @@
+{
+  "name": "ui-kitchen",
+  "title": "UI Kitchen Pro",
+  "description": "All SDK components allowed to use in plugins.",
+  "version": "0.1.0",
+  "author": "WebStray",
+  "main": "index.js"
+}

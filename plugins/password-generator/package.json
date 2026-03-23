@@ -1,0 +1,7 @@
+{
+  "name": "password-generator-plugin",
+  "title": "Password Generator",
+  "description": "Create strong passwords by one click!",
+  "version": "2.4.6",
+  "main": "index.js"
+}

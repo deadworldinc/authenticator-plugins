@@ -1,0 +1,8 @@
+{
+  "name": "security-audit",
+  "title": "Security Audit",
+  "description": "Security Audit for your passwords",
+  "version": "1.6.4",
+  "author": "WebStray",
+  "main": "index.js"
+}
